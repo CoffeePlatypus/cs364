@@ -1,0 +1,13 @@
+/*SELECT BillingCountry, Title, count(*)
+    FROM (Invoice NATURAL JOIN InvoiceLine NATURAL JOIN Track NATURAL JOIN Album) 
+    GROUP BY BillingCountry, Title*/
+    
+/*SELECT Title, count(*)
+    FROM (Invoice NATURAL JOIN InvoiceLine NATURAL JOIN Track NATURAL JOIN Album) 
+    GROUP BY Title*/
+    
+SELECT Title, count(*)
+    FROM (Invoice NATURAL JOIN InvoiceLine NATURAL JOIN Track NATURAL JOIN Album) 
+    GROUP BY Title
+    ORDER BY count(*) DESC
+    LIMIT 1
