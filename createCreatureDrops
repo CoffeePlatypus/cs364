@@ -1,0 +1,66 @@
+/*DROP TABLE CreatureDrops;*/
+
+/*CREATE TABLE CreatureDrops(
+    DropID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    CreatureID INT NOT NULL,
+    ItemID INT NOT NULL,
+        
+    FOREIGN KEY (CreatureID) REFERENCES Creature (CreatureID),
+    FOREIGN KEY (ItemID) REFERENCES Item (ItemID)
+);*/
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(9,1); -- squirrel drops acorn
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(10,67); -- wl boar drops raw meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(11,68); -- rt boar drops raw prime meat
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(12,67); -- m goat drops raw meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(14,68); -- m buck drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(15,68); -- m doe drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(16,68); -- w buffalo drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(16,66); -- w buffalo drops raw gorumet meat
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(19,67); -- g fox drops raw meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(20,68); -- s fox drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(20,66); -- s fox drops raw gourmet meat
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(21,68); -- m wolf drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(21,66); -- m wolf drops raw gourmet meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(22,68); -- w coyote drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(22,66); -- w coyote drops raw gourmet meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(23,68); -- cf wolf drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(23,66); -- cf wolf drops raw gourmet meat
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(24,68); -- t moose drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(24,66); -- t moose drops raw gourmet meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(25,68); -- gh rhino drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(25,66); -- gh rhino drops raw gourmet meat
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(26,68); -- h bear drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(26,66); -- h bear drops raw gourmet meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(27,68); -- g bear drops raw prime meat
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(27,66); -- g bear drops raw gourmet meat
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(27,42); -- g bear drops hearty salmon
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(30,14); -- c sparrow drops c t nut
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(31,14); -- r sparrow drops c t nut
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(32,14); -- b sparrow drops c t nut
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(33,14); -- rain sparrow drops c t nut
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(34,14); -- s sparrow drops c t nut
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(35,14); -- g sparrow drops c t nut
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(36,65); -- w pigeon drops raw bird drumstick
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(37,64); -- r pigeon drows raw bird thigh
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(38,64); -- hf pigeon drops raw bird thigh
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(39,64); -- w pigeon drops raw bird thigh
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(39,69); -- w pigeon drops raw whole bird
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(40,65); -- w pigeon drops raw bird drumstick
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(41,65); -- bc duck drops raw bird drumstick
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(42,65); -- w pigeon drops raw bird drumstick
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(43,65); -- p heron drops raw bird drumstick
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(44,64); -- i hawk drops raw bird thigh
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(45,65); -- seagull drops raw bird drumstick
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(46,64); -- w pigeon drops raw bird thigh
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(46,69); -- w pigeon drops raw whole bird
+
+INSERT INTO CreatureDrops(CreatureID, ItemID) values(47,9); -- cocco drops bird egg

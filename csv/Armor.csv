@@ -1,0 +1,92 @@
+﻿ArmorName,ArmorType,Def,DefLvl1,DefLvl2,DefLvl3,DefLvl4,ArmorBonus,SetBonus,Upgrade1,Upgrade2,Upgrade3,
+Ancient Cuirass,Body,4,7,12,18,28,Guardian Resist,Ancient Proficiency,"Ancient Screw x5, Ancient Spring x5","Ancient Spring x15, Ancient Gear x10","Ancient Shaft x15, Ancient Core x5","Ancient Screw,Ancient Spring"
+Barbarian Armor,Body,3,4,8,12,20,Attack,Charge Attack Stamina,Lynel Horn x1,"Lynel Horn x3, Lynel Hoof x2","Lynel Hoof x4, Lynel Guts x1","Lynel Horn,Lynel Guts,Lynel Hoof,Shard of Dinraal's Horn"
+Champion's Tunic,Body,5,8,14,22,32,See Enemy HP,,Silent Princess x3,"Silent Princess x3, Shard of Farosh's Horn x2","Silent Princess x3, Shard of Naydra's Horn x2","Silent Princess,Shard of Farosh's Horn,Shard of Naydra's Horn,Shard of Dinraal's Horn"
+Climbing Gear,Body,3,5,8,12,20,Climb Speed,Climb Stamina,"Keese Wing x3, Rushroom x3","Electric Keese Wing x5, Hightail Lizard x5","Ice Keese Wing x5, Hot-Footed Frog x10","Keese Wing,Rushroom,Electric Keese Wing,Hightail Lizard,Ice Keese Wing,Hot-Footed Frog,Fire Keese Wing,Swift Violet"
+Dark Tunic,Body,3,,,,,,Night Speed,,,,
+Desert Voe Spaulder,Body,3,5,8,12,20,Heat Resist,Shock Resist,White Chuchu Jelly x3,"White Chuchu Jelly x5, Ice keese Wing x3","Ice Keese Wing x8, Icy Lizalfos Tail x3 ","White Chuchu Jelly,Ice Keese Wing,Lizalfos Tail,Sapphire"
+Fierce Deity Armor,Body,3,5,8,12,20,Attack,Charge Attack Stamina,"Hinox Toenail x5, Naydra's Scale x1","Hinox Tooth x5, Naydra's Claw x1","Hinox Guts x5, Shard of Naydra's Fang x1","Hinox Toenail,Naydra's Scale,Hinox Tooth,Naydra's Claw,Hinox Guts,Shard of Naydra's Fang,Lynel Guts,Shard of Naydra's Horn"
+Flamebreaker Armor,Body,3,5,8,12,20,Flame Guard,Fireproof,"Fireproof Lizard x1, Moblin Horn x2","Fireproof Lizard x3, Moblin Fang x4","Smotherwing Butterfly x3, Moblin Guts x3","Fireproof Lizard,Moblin Horn,Moblin Fang,Smotherwing Butterfly,Moblin Guts,Hinox Guts"
+Gerudo Top,Body,1,,,,,Gerudo Town Entry,Heat Resist,,,,
+Hylian Tunic,Body,3,5,8,12,20,,,Bokoblin Horn x5,"Bokoblin Horn x8, Bokoblin Fang x5","Bokoblin Fang x10, Bokoblin Guts x5","Bokoblin Horn,Bokoblin Fang,Bokoblin Guts,Amber"
+Nintendo Switch Shirt,Body,1,,,,,,,,,,
+Old Shirt,Body,1,,,,,,,,,,
+Phantom Armor,Body,8,,,,,Attack,,,,,
+Radiant Shirt,Body,3,5,8,12,20,Stal Lure,Disguise and Bone Attack,"Luminous Stone x5, Bokoblin Guts x3","Luminous Stone x8, Moblin Guts x3","Luminous Stone x10, Molduga Guts x2","Luminous Stone,Bokoblin Guts,Moblin Guts,Molduga Guts,Lynel Guts"
+Rubber Armor,Body,3,5,8,12,20,Shock Resist,Unshockable,Yellow Chuchu Jelly x3,"Yellow Chuchu Jelly x5, Voltfruit x5","Zapshroom x5, Yellow Lizalfos Tail x5","Yellow Chuchu Jelly,Voltfruit,Zapshroom,Yellow Lizalfos Tail,Topaz"
+Snowquill Tunic,Body,3,5,8,12,20,Cold Resist,Unfreezable,Red Chuchu Jelly x3,"Red Chuchu Jelly x5, Warm Saffina x3","Fire Keese Wing x8, Sunshroom x5","Red Chuchu Jelly,Warm Safflina,Fire Keese Wing,Sunshroom,Red Lizalfos Tail,Ruby"
+Soldier's Armor,Body,4,7,12,18,24,,,"Chuchu Jelly x5, Bokoblin Guts x3","Keese Wing x5, Moblin Guts x3","Lizalfos Tail x5, Hinox Guts x3","Chuchu Jelly,Bokoblin Guts,Keese Wing,Moblin Guts,Lizalfos Tail,Hinox Guts,Lynel Hoof,Lynel Guts"
+Stealth Chest Guard,Body,2,4,6,9,16,Stealth,Night Speed,Blue Nightshade x3,"Blue Nightshade x5, Sunset Firefly x5","Silent Shroom x8, Sneaky River Snail x5","Blue Nightshade,Sunset Firefly,Silent Shroom,Sneaky River Snail,Stealthfin Trout,Silent Princess"
+Tingle's Shirt,Body,2,,,,,,,,,,
+Tunic of the Hero,Body,3,5,8,12,20,,Master Sword Beam,"Ruby x1, Star Fragment x1","Ruby x3, Star Fragment x2","Ruby x5, Star Fragment x3","Star Fragment,Ruby"
+Tunic of Time,Body,3,5,8,12,20,,Master Sword Beam,"Amber x3, Star Fragment x1","Amber x5, Star Fragment x2","Amber x15, Star Fragment x3",Star Fragment
+Tunic of Twilight,Body,3,5,8,12,20,,Master Sword Beam,"Topaz x3, Star Fragment x1","Topaz x5, Star Fragment x2","Topaz x15, Star Fragment x3",Star Fragment
+Tunic of the Wild,Body,4,7,12,18,28,,Master Sword Beam,"Acorn x10, Farosh's Scale x2","Courser Bee Honey x5, Farosh's Claw x2","Energetic Rhino Beetle x5, Farosh's Fang x2","Star Fragment,Acorn,Farosh's Scale,Courser Bee Honey,Farosh's Claw,Energetic Rhino Beetle,Shard of Farosh's Fang,Shard of Farosh's Horn"
+Tunic of the Wind,Body,3,5,8,12,20,,Master Sword Beam,"Opal x3, Star Fragment x1","Opal x5, Star Fragment x3","Opal x15, Star Fragment x3",Star Fragment
+Tunic of the Sky,Body,3,5,8,12,20,,Master Sword Beam,"Sapphire x1, Star Fragment x1","Sapphire x3, Star Fragment x2","Sapphire x5, Star Fragment x3","Star Fragment,Sapphire"
+Warm Doublet,Body,1,,,,,Cold Resist,,,,,
+Zora Armor,Body,3,5,8,12,20,Swim Speed,Swim Dash Stamina,Lizalfos Horn x3,"Lizalfos Talon x5, Hyrule Bass x5","Lizalfos Tail x3, Hearty Bass x5","Lizalfos Horn,Lizalfos Talon,Hyrule Bass,Lizalfos Tail,Hearty Bass,Opal"
+Amber Earrings,Head,4,7,12,18,28,Heat Resist,,"Amber x5, Flint x3",Amber x10 Flint x3,Amber x20 Flint x3,"Amber,Flint"
+Ancient Helm,Head,4,7,12,18,28,Guardian Resist,Ancient Proficiency,"Ancient Screw x5, Ancient Spring x5","Ancient Spring x15, Ancient Gear x10","Ancient Shaft x15, Ancient Core x5","Ancient Screw,Ancient Spring"
+Barbarian Helm,Head,3,4,8,12,20,Attack,Charge Attack Stamina,Lynel Horn x1,"Lynel Horn x3, Lynel Hoof x2","Lynel Hoof x4, Lynel Guts x1","Lynel Horn,Lynel Guts,Lynel Hoof,Shard of Dinraal's Horn"
+Bokoblin Mask,Head,3,,,,,Bokoblin Disguise,,,,,
+Cap of the Hero,Head,3,5,8,12,20,,Master Sword Beam,"Ruby x1, Star Fragment x1","Ruby x3, Star Fragment x2","Ruby x5, Star Fragment x3","Ruby,Star Fragment"
+Cap of the Wild,Head,4,7,12,18,28,,Master Sword Beam,"Acorn x10, Farosh's Scale x2","Courser Bee Honey x5, Farosh's Claw x2","Energetic Rhino Beetle x5, Farosh's Fang x2","Acorn,Farosh's Scale,Courser Bee Honey,Farosh's Claw,Energetic Rhino Beetle,Shard of Farosh's Fang,Star Fragment,Shard of Farosh's Horn"
+Cap of the Wind,Head,3,5,8,12,20,,Master Sword Beam,"Opal x3, Star Fragment x1","Opal x5, Star Fragment x3","Opal x15, Star Fragment x3","Opal,Star Fragment"
+Cap of the Sky,Head,3,5,8,12,20,,Master Sword Beam,"Sapphire x1, Star Fragment x1","Sapphire x3, Star Fragment x2","Sapphire x5, Star Fragment x3","Sapphire,Star Fragment"
+Cap of Time,Head,3,5,8,12,20,,Master Sword Beam,"Amber x3, Star Fragment x1","Amber x5, Star Fragment x2","Amber x15, Star Fragment x3","Amber,Star Fragment"
+Cap of Twilight,Head,3,5,8,12,20,,Master Sword Beam,"Topaz x3, Star Fragment x1","Topaz x5, Star Fragment x2","Topaz x15, Star Fragment x3","Topaz,Star Fragment"
+Climber's Bandanna,Head,3,5,8,12,20,Climb Speed,Climb Stamina,"Keese Wing x3, Rushroom x3","Electric Keese Wing x5, Hightail Lizard x5","Ice Keese Wing x5, Hot-Footed Frog x10","Keese Wing,Rushroom,Electric Keese Wing,Hightail Lizard,Ice Keese Wing,Hot-Footed Frog,Fire Keese Wing,Swift Violet"
+Dark Hood,Head,3,,,,,,Night Speed,,,,
+Desert Voe Headband,Head,3,5,8,12,20,Heat Resist,Shock Resistance,White Chuchu Jelly x3,"White Chuchu Jelly x5, Ice Keese Wing x3","Ice Keese Wing x8, Icy Lizalfox Tail x3","White Chuchu Jelly,Ice Keese Wing,Lizalfos Tail,Sapphire"
+Diamond Circlet,Head,4,7,12,18,28,Guardian Resist,,"Diamond x2, Flint x3","Diamond x4, Flint x3","Diamond x6, Star Fragment x1","Diamond,Flint,Star Fragment"
+Fierce Deity Mask,Head,3,5,8,12,20,Attack,Charge Attack Stamina,"Hinox Toenail x5, Dinraal's Scale x1","Hinox Tooth x5, Dinraal's Claw x1","Hinox Guts x5, Shard of Dinraal's Fang x1","Hinox Toenail,Naydra's Scale,Hinox Tooth,Naydra's Claw,Hinox Guts,Shard of Naydra's Fang,Lynel Guts,Shard of Naydra's Horn"
+Flamebreaker Helm,Head,3,5,8,12,20,Flame Guard,Fireproof,"Fireproof Lizard x1, Moblin Horn x2","Fireproof Lizard x3, Moblin Fang x4","Smotherwing Butterfly x3, Moblin Guts x3","Fireproof Lizard,Moblin Horn,Moblin Fang,Smotherwing Butterfly,Moblin Guts,Hinox Guts"
+Gerudo Veil,Head,1,,,,,Gerudo Town Entry,Heat Resist,,,,
+Hylian Hood,Head,3,5,8,12,20,,,Bokoblin Horn x5,"Bokoblin Horn x8, Bokoblin Fang x5","Bokoblin Fang x10, Bokoblin Guts x5","Bokoblin Horn,Bokoblin Fang,Bokoblin Guts,Amber"
+Korok Mask,Head,1,,,,,,,,,,
+Lizalfos Mask,Head,3,,,,,Lizalfos Disguise,,,,,
+Lynel Mask,Head,3,,,,,Lynel Disguise,,,,,
+Majora's Mask,Head,1,,,,,,,,,,
+Midna's Helmet,Head,7,,,,,Guardian Resist,,,,,
+Moblin Mask,Head,3,,,,,Moblin Disguise,,,,,
+Opal Earrings,Head,3,5,8,12,20,Swim Speed,,"Opal x5, Flint x3","Opal x8, Flint x3","Opal x16, Flint x3","Opal,Flint"
+Phantom Helmet,Head,8,,,,,Attack,,,,,
+Radiant Mask,Head,3,5,8,12,20,Stal Lure,Disguise and Bone Attack,"Luminous Stone x5, Bokoblin Guts x3","Luminous Stone x8, Moblin Guts x3","Luminous Stone x10, Molduga Guts x2","Luminous Stone,Bokoblin Guts,Moblin Guts,Molduga Guts,Lynel Guts"
+Ruby Circlet,Head,3,5,8,12,20,Cold Resist,,"Ruby x2, Flint x3","Ruby x4, Flint x3","Ruby x6, Star Fragment x1","Ruby,Flint,Star Fragment"
+Rubber Helm,Head,3,5,8,12,20,Shock Resist,Unshockable,Yellow Chuchu Jelly x3,"Yellow Chuchu Jelly x5, Voltfruit x5","Zapshroom x5, Yellow Lizalfos Tail x5","Yellow Chuchu Jelly,Voltfruit,Zapshroom,Yellow Lizalfos Tail,Topaz"
+Sapphire Circlet,Head,3,5,8,12,20,Heat Resist,,"Sapphire x2, Flint x3","Sapphire x4, Flint x3","Sapphire x6, Star Fragment x1","Sapphire,Flint,Star Fragment"
+Sheik's Mask,Head,2,4,6,9,16,Stealth,,"Silent Princess x1, Star Fragment x1","Silent Princess x2, Star Fragment x2","Silent Princess x3, Star Fragment x3","Silent Princess,Star Fragment"
+Snowquill Headdress,Head,3,5,8,12,20,Cold Resist,Unfreezable,Red Chuchu Jelly x3,"Red Chuchu Jelly x5, Warm Saffina x3","Fire Keese Wing x8, Sunshroom x5","Red Chuchu Jelly,Warm Safflina,Fire Keese Wing,Sunshroom,Red Lizalfos Tail,Ruby"
+Soldier's Helm,Head,4,7,12,18,28,,,"Chuchu Jelly x5, Bokoblin Guts x3","Keese Wing x3, Moblin Guts x3","Lizalfos Tail x3, Hinox Guts x1","Chuchu Jelly,Bokoblin Guts,Keese Wing,Moblin Guts,Lizalfos Tail,Hinox Guts,Lynel Hoof,Lynel Guts"
+Stealth Mask,Head,2,4,6,9,16,Stealth,,Blue Nightshade x3,"Blue Nightshade x5, Sunset Firefly x5","Silent Shroom x8, Sneaky River Snail x5","Blue Nightshade,Sunset Firefly,Silent Shroom,Sneaky River Snail,Stealthfin Trout,Silent Princess"
+Thunder Helm,Head,3,,,,,Lightning Proof,,,,,
+Tingle's Hood,Head,2,,,,,,,,,,
+Topaz Earrings,Head,3,5,8,12,18,Shock Resist,,"Topaz x2, Flint x3","Topaz x4, Flint x3","Topaz x6, Star Fragment x1","Star Fragment,Topaz,Flint"
+Zora Helm,Head,3,5,8,12,20,Swim Speed,Swim Dash Stamina,Lizalfos Horn x3,"Lizalfos Talon x5, Hyrule Bass x5","Lizalfos Tail x5, Hearty Bass x5","Lizalfos Horn,Lizalfos Talon,Hyrule Bass,Lizalfos Tail,Hearty Bass,Opal"
+Ancient Greaves,Leg,4,7,12,18,28,Guardian Resist,Ancient Proficiency,"Ancient Screw x5, Ancient Spring x5","Ancient Spring x15, Ancient Gear x10","Ancient Shaft x15, Ancient Core x5","Ancient Screw,Ancient Spring"
+Barbarian Leg Wraps,Leg,3,4,8,12,20,Attack,Charge Attack Stamina,Lynel Horn x1,"Lynel Horn x3, Lynel Hoof x2","Lynel Hoof x4, Lynel Guts x1","Lynel Horn,Lynel Guts,Lynel Hoof,Shard of Dinraal's Horn"
+Climbing Boots,Leg,3,5,8,12,20,Climb Speed,Climb Stamina,"Keese Wing x3, Rushroom x3","Electric Keese Wing x5, Hightail Lizard x5","Ice Keese Wing x5, Hot-Footed Frog x10","Keese Wing,Rushroom,Electric Keese Wing,Hightail Lizard,Ice Keese Wing,Hot-Footed Frog,Fire Keese Wing,Swift Violet"
+Dark Trousers,Leg,3,,,,,,Night Speed,,,,
+Desert Voe Trousers,Leg,3,5,8,12,20,Heat Resist,Shock Resist,White Chuchu Jelly x3,"White Chuchu Jelly x5, Ice keese Wing x3","Ice Keese Wing x8, Icy Lizalfos Tail x3 ","White Chuchu Jelly,Ice Keese Wing,Lizalfos Tail,Sapphire"
+Fierce Deity Boots,Leg,3,5,8,12,20,Attack,Charge Attack Stamina,"Hinox Toenail x5, Farosh's Scale x1","Hinox Tooth x5, Farosh's Claw x1","Hinox Guts x5, Shard of Farosh's Fang x1","Hinox Toenail,Naydra's Scale,Hinox Tooth,Naydra's Claw,Hinox Guts,Shard of Naydra's Fang,Lynel Guts,Shard of Naydra's Horn"
+Flamebreaker Boots,Leg,3,5,8,12,20,Flame Guard,Fireproof,"Fireproof Lizard x1, Moblin Horn x2","Fireproof Lizard x3, Moblin Fang x4","Smotherwing Butterfly x3, Moblin Guts x3","Fireproof Lizard,Moblin Horn,Moblin Fang,Smotherwing Butterfly,Moblin Guts,Hinox Guts"
+Gerudo Sirwal,Leg,3,,,,,Gerudo Town Entry,Heat Resist,,,,
+Hylian Trousers,Leg,3,5,8,12,20,,,Bokoblin Horn x5,"Bokoblin Horn x8, Bokoblin Fang x5","Bokoblin Fang x10, Bokoblin Guts x5","Bokoblin Horn,Bokoblin Fang,Bokoblin Guts,Amber"
+Phantom Greaves,Leg,8,,,,,Attack,,,,,
+Radiant Tights,Leg,3,5,8,12,20,Stal Lure,Disguise and Bone Attack,"Luminous Stone x5, Bokoblin Guts x3","Luminous Stone x8, Moblin Guts x3","Luminous Stone x10, Molduga Guts x2","Luminous Stone,Bokoblin Guts,Moblin Guts,Molduga Guts,Lynel Guts"
+Rubber Tights,Leg,3,5,8,12,20,Shock Resist,Unshockable,Yellow Chuchu Jelly x3,"Yellow Chuchu Jelly x5, Voltfruit x5","Zapshroom x5, Yellow Lizalfos Tail x5","Yellow Chuchu Jelly,Voltfruit,Zapshroom,Yellow Lizalfos Tail,Topaz"
+Sand Boots,Leg,3,5,8,12,20,Sand Speed,,"Molduga Fin x5, Hightail Lizard x10","Molduga Fin x10, Swift Carrot x10","Molduga Guts x3, Rushroom x15","Molduga Fin,Hightail Lizard,Swift Carrot,Molduga Guts,Rushroom,Swift Violet"
+Snow Boots,Leg,3,5,8,12,20,Snow Speed,,"Octorok Tentacle x5, Hightail Lizard x10","Octo Balloon x5, Swift Carrot x10","Octorok Eyeball x5, Rushroom x15","Octorok Tentacle,Hightail Lizard,Octo Balloon,Swift Carrot,Octorok Eyeball,Rushroom,Naydra's Scale,Swift Violet"
+Snowquill Trousers,Leg,3,5,8,12,20,Cold Resist,Unfreezable,Red Chuchu Jelly x3,"Red Chuchu Jelly x5, Warm Saffina x3","Fire Keese Wing x8, Sunshroom x5","Red Chuchu Jelly,Warm Safflina,Fire Keese Wing,Sunshroom,Red Lizalfos Tail,Ruby"
+Soldier's Greaves,Leg,4,7,12,18,28,,,"Chuchu Jelly x5, Bokoblin Guts x3","Keese Wing x3, Moblin Guts x3","Lizalfos Tail x3, Hinox Guts x1","Chuchu Jelly,Bokoblin Guts,Keese Wing,Moblin Guts,Lizalfos Tail,Hinox Guts,Lynel Hoof,Lynel Guts"
+Stealth Tights,Leg,2,4,6,9,16,Stealth,Night Speed,Blue Nightshade x3,"Blue Nightshade x5, Sunset Firefly x5","Silent Shroom x8, Sneaky River Snail x5","Blue Nightshade,Sunset Firefly,Silent Shroom,Sneaky River Snail,Stealthfin Trout,Silent Princess"
+Tingle's Tights,Leg,2,,,,,,,,,,
+Trousers of the Hero,Leg,3,5,8,12,20,,Master Sword Beam,"Ruby x1, Star Fragment x1","Ruby x3, Star Fragment x2","Ruby x5, Star Fragment x3","Star Fragment,Ruby"
+Trousers of Time,Leg,3,5,8,12,20,,Master Sword Beam,"Amber x3, Star Fragment x1","Amber x5, Star Fragment x2","Amber x15, Star Fragment x3","Star Fragment,Amber"
+Trousers of Twilight,Leg,3,5,8,12,20,,Master Sword Beam,"Topaz x3, Star Fragment x1","Topaz x5, Star Fragment x2","Topaz x15, Star Fragment x3","Star Fragment,Topaz"
+Trousers of the Wild,Leg,4,7,12,18,28,,Master Sword Beam,"Acorn x10, Farosh's Scale x2","Courser Bee Honey x5, Farosh's Claw x2","Energetic Rhino Beetle x5, Farosh's Fang x2","Star Fragment,Acorn,Farosh's Scale,Courser Bee Honey,Farosh's Claw,Bladed Rhino Beetle,Energetic Rhino Beetle,Shard of Farosh's Horn,Shard of Farosh's Fang"
+Trousers of the Wind,Leg,3,5,8,12,20,,Master Sword Beam,"Opal x3, Star Fragment x1","Opal x5, Star Fragment x3","Opal x15, Star Fragment x3","Star Fragment,Opal"
+Trousers of the Sky,Leg,3,5,8,12,20,,Master Sword Beam,"Sapphire x1, Star Fragment x1","Sapphire x3, Star Fragment x2","Sapphire x5, Star Fragment x3","Star Fragment,Sapphire"
+Well-Worn Trousers,Leg,1,,,,,,,,,,
+Zora Greaves,Leg,3,5,8,12,20,Swim Speed,Swim Dash Stamina,Lizalfos Horn x3,"Lizalfos Talon x5, Hyrule Bass x5","Lizalfos Tail x3, Hearty Bass x5","Lizalfos Horn,Lizalfos Talon,Hyrule Bass,Lizalfos Tail,Hearty Bass,Opal"
